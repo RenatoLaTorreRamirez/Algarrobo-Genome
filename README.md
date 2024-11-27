@@ -1,3 +1,3 @@
 # Algarrobo
-A special group of legume trees diversified in the New World and very adapted to drylands. ¿What can their genomes teach us about their great adaptation?
-Codes and block for reproducibility and practice
+Codes used for genome assembly, annotation and comparative analysis of the Algarrobo (Neltuma pallida). Extended in the Wiki
+A chromosome-level genome assembly of the Peruvian Algarrobo (Neltuma pallida) provides insights on its adaptation to its unique ecological niche
